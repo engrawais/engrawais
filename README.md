@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Dynamic Software Engineer** with over **14 years of diverse experience** driving technical innovation and team excellence across enterprise-level software development projects. Currently serving as **Software Engineering Manager at Codonomy**, I specialize in leading high-performing teams, implementing robust technology strategies, and ensuring the delivery of high-quality solutions that align with business objectives.
+I'm a **Full Stack Deeveloper** with over **8 years of diverse experience** driving technical innovation and team excellence across enterprise-level software development projects. Currently serving as **Software Engineering Manager at Codonomy**, I specialize in leading high-performing teams, implementing robust technology strategies, and ensuring the delivery of high-quality solutions that align with business objectives.
 
 ### 💼 Current Role
 **Software Engineering Manager @ Codonomy** *(Nov 2023 - Present)*
@@ -103,7 +103,7 @@ graph LR
 
 ### 📈 Career Highlights
 
-- **🚀 14+ Years** of progressive experience in software development and team leadership
+- **🚀 8+ Years** of progressive experience in software development and team leadership
 - **👥 Managed 12-15 clients** providing solution and development services at Cloudtek
 - **🎯 Led teams of 5-15 developers** across multiple projects and organizations
 - **💡 Implemented** Clean Architecture, N-Layer Architecture, and Design Patterns

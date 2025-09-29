@@ -1,142 +1,150 @@
 # Hi there, I'm Muhammad Awais 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Software+Engineering+Manager;14%2B+Years+of+Experience;Full-Stack+Developer;Technical+Leader" alt="Typing SVG" />
-</div>
+**Sr. Software Developer** | 📍 Islamabad, Pakistan
 
-## 🚀 About Me
-
-I'm a **Full Stack Deeveloper** with over **8 years of diverse experience** driving technical innovation and team excellence across enterprise-level software development projects. Currently serving as **Software Engineering Manager at Codonomy**, I specialize in leading high-performing teams, implementing robust technology strategies, and ensuring the delivery of high-quality solutions that align with business objectives.
-
-### 💼 Current Role
-**Software Engineering Manager @ Codonomy** *(Nov 2023 - Present)*
-- 🎯 Collaborating with CTO to define and execute technical strategy
-- 👥 Leading and managing technology teams with focus on recruitment, training, and performance
-- 🛡️ Maintaining and enhancing stability, security, and scalability of technology infrastructure
-- 🤝 Partnering with cross-functional teams to meet business requirements and market demands
-
-## 🛠️ Technical Stack
-
-### **Languages & Frameworks**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### **Frontend Technologies**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### **Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### **Databases**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### **Tools & Methodologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0095D5?style=for-the-badge&logo=agile&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-FF6B6B?style=for-the-badge&logo=testing-library&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-## 📊 Core Competencies
-
-<table>
-<tr>
-<td width="50%">
-
-### 👨‍💼 Leadership & Management
-- ✅ Team Leadership (5-15 members)
-- ✅ Strategic Planning & Execution
-- ✅ Agile Project Management
-- ✅ Cross-Functional Collaboration
-- ✅ Stakeholder Management
-- ✅ Technical Defense & Client Relations
-
-</td>
-<td width="50%">
-
-### 💻 Technical Excellence
-- ✅ Full-Stack Development
-- ✅ Clean Architecture & Design Patterns
-- ✅ Test-Driven Development (TDD)
-- ✅ CI/CD Pipeline Configuration
-- ✅ Cloud Infrastructure (AWS, Azure)
-- ✅ Microservices Architecture
-
-</td>
-</tr>
-</table>
-
-## 🏆 Professional Journey
-
-```mermaid
-graph LR
-    A[Technical Project Manager<br/>2012-2016] --> B[Software Developer<br/>2017-2019]
-    B --> C[Software Engineer<br/>2020-2022]
-    C --> D[Senior Software Engineer<br/>2022-2023]
-    D --> E[Software Engineering Manager<br/>2023-Present]
-```
-
-### 📈 Career Highlights
-
-- **🚀 8+ Years** of progressive experience in software development and team leadership
-- **👥 Managed 12-15 clients** providing solution and development services at Cloudtek
-- **🎯 Led teams of 5-15 developers** across multiple projects and organizations
-- **💡 Implemented** Clean Architecture, N-Layer Architecture, and Design Patterns
-- **🔧 Expertise in** .NET ecosystem, Angular 17, React 18, and cloud technologies
-- **📊 Proficient in** Agile methodologies, TDD, and DevOps practices
-
-## 🌟 What I'm Currently Focusing On
-
-- 🔭 Building scalable enterprise-level web applications
-- 🌱 Continuously learning and implementing cutting-edge technologies
-- 👯 Looking to collaborate on innovative open-source projects
-- 🎯 Driving technical excellence and team productivity at Codonomy
-- 💡 Implementing robust technology strategies aligned with business objectives
-
-## 📚 Education
-
-**Bachelor's in Computer Engineering**  
-*COMSATS University, Islamabad (2007 - 2012)*
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadawais-software-engineering-manager/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadawais-developer/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awais.cns@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923315669169)
 
-</div>
+## 👨‍💻 About Me
+
+Dynamic Software Engineer with **8 years** of diverse experience driving technical innovation and team excellence across software development projects. Expertise in leading high-performing teams, implementing robust technology strategies, and ensuring the delivery of high-quality solutions that align with business objectives. Proficient in Agile methodologies, risk analysis, and stakeholder management, fostering collaboration across functional teams to enhance product development life-cycles. Committed to leveraging technical skills in .NET, C#, React and web application frameworks to optimize performance and scalability while maintaining a focus on innovation and quality.
+
+## 🚀 Technical Skills
+
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend & Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+### Architecture & Patterns
+`Microservices` `Clean Architecture` `n-Layer` `REST` `SOAP` `CQRS` `TDD` `Options Pattern`
+
+## 💼 Professional Experience
+
+### 🏢 Sr Software Developer @ Codonomy (Nov 2024 – Present) | Islamabad
+- Collaborated with the CTO to define and execute the technical strategy, ensuring alignment with the company's long-term vision and strategic objectives
+- Led and managed the technology team, overseeing recruitment, training, and performance management to drive high levels of productivity and technical excellence
+- Provided technical guidance throughout the product development life-cycle, ensuring innovation, quality, and on-time delivery
+- Maintained and enhanced the stability, security, and scalability of the technology infrastructure, proactively identifying and mitigating risks
+- Partnered with product management, sales, and customer support teams to ensure technology solutions effectively met business requirements and market demands
+- Proactive bug prevention: static analysis, dependency vulnerability scanning, and PR risk templates
+- Streamlined defect lifecycle: severity/priority matrix, RCA templates, regression shields with canary feature flags
+- Designed monitoring dashboards for error distribution, slow endpoints, and implemented on-call escalation policies
+- Conducted failure-pattern sessions on common issues (race conditions, deadlocks, memory leaks, JWT expiry) and documented standard fixes
+- Implemented secure error handling: sensitive info redaction, structured audit events, and safe error surfaces
+
+### 🏢 Senior Software Engineer @ Remotebase (Jan 2024 – Nov 2024) | Remote
+- Developed and maintained web applications using C#, Web API, JavaScript, jQuery
+- Implemented object-oriented programming principles and applied design patterns to build scalable, maintainable software solutions
+- Developed dynamic and interactive UI components using Angular version 17
+- Followed Test-Driven Development (TDD) practices to ensure well-tested code
+- Hosted on IIS platform
+- Followed Agile (Scrum, Sprint planning, Retrospectives)
+- Worked on Git for version control systems and ensured code integrity and team collaboration
+- Designed a robust error handling strategy including global exception filters, structured logging with correlation IDs, and user-friendly fallback messages
+- Defined and tracked a bug taxonomy (regressions, race conditions, deadlocks, null-reference errors, off-by-one errors, memory leaks, data integrity issues, and cross-browser UI defects), improving triage and resolution speed
+- Enhanced observability by implementing centralized logging, request tracing, custom metrics (error rate, p95 latency), and configuring both threshold-based and anomaly-based alerts
+- Strengthened testing practices by enforcing TDD, adding unit/integration tests, API contract tests, and end-to-end UI tests; identified and stabilized flaky tests
+
+### 🏢 Software Engineer @ Cloudtek (Jan 2022 – Jan 2024) | Islamabad
+- Provided solution and development services to 12-15 clients
+- Worked on different architecture and frameworks
+- Lead different teams varying from 5 to 10 persons
+- Worked on agile methodology and highly focused on SDLC
+- Created and maintained the whole project through Jira, Slack, and Azure Boards
+- Daily Stand ups, Scrums, Retrospective meetings
+- Technical defence with clients and win the projects
+- Onboard projects, setting up development environment
+- Interacted with the team of developers front-end and backend managed, Planned, Implemented and resolved the technical as well as team related issues
+- Developed Clean architecture, n-Layer architecture, Options Pattern
+- Worked with Sonar cube, implemented N-unit and TDD environment
+- GitHub Actions workflow, Docker, CI/CD pipeline Configuration
+- Job Worker services, Communda with ZeebeClient for the development of the API
+- Developed applications using .NET 6 and Angular 17
+- Worked with Azure Key Vault, OAuth, Authentication and Authorization JWT
+- Worked with AWS Lambda, Quick Sight, Cloud Watch and API Gateway
+- Implemented the project with LINQ as well as Stored Procedures
+
+### 🏢 Software Developer @ Computer & Networking Services (Jan 2016 – Dec 2021) | Islamabad
+- Developed HRMS using Razor Pages, MVC, SQL, Web and Win Forms, and REST APIs
+- Backend in C#, Windows hosted background services
+- TDD, n-Unit testing for TDD
+- Used HTML, JavaScript, jQuery with Ajax, Bootstrap, ADO.NET and LINQ
+- Developed utilities for different system by using Windows Service
+- Software Development Plan (Scope, Constraints, Limitations, Flowcharts, layouts)
+- Deployment of applications on Virtual Private Servers (IIS)
+
+## 🎯 Key Projects
+
+### 🔥 Enterprise API Platform
+Designed and implemented scalable APIs with .NET 6, Angular 17, JWT, and Docker; integrated AWS and Azure services for secure deployments.
+
+### 💼 HRMS System
+Delivered a complete HR solution using Razor Pages, MVC, and SQL Server, enabling automation of payroll and employee management.
+
+## 🎓 Education
+
+**Bachelor's in Computer Engineering**  
+Comsats University, Islamabad (2007 – 2012)
+
+## 🏆 Achievements & Leadership
+
+- ✅ Consistently delivered projects on time with measurable performance gains
+- 👨‍🏫 Trained and mentored junior engineers, improving code quality and productivity
+- 🏅 Recognized for driving architecture modernization and implementing CI/CD best practices
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=engrawais&style=flat-square&color=blue" alt="Profile views"/>
-  
-  ### 💭 "Committed to leveraging technical expertise to optimize performance and scalability while maintaining a focus on innovation and quality."
-</div>
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadawais-developer/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awais.cns@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923315669169)
+
+**📍 Location:** Islamabad, Pakistan  
+**📧 Email:** awais.cns@gmail.com  
+**📱 Phone:** +92 331-5669169
+
+---
+
+⭐️ From [Muhammad Awais](https://github.com/YOUR_GITHUB_USERNAME)

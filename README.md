@@ -61,19 +61,7 @@ Dynamic Software Engineer with **8 years** of diverse experience driving technic
 
 ## 💼 Professional Experience
 
-### 🏢 Sr Software Developer @ Codonomy (Nov 2024 – Present) | Islamabad
-- Collaborated with the CTO to define and execute the technical strategy, ensuring alignment with the company's long-term vision and strategic objectives
-- Led and managed the technology team, overseeing recruitment, training, and performance management to drive high levels of productivity and technical excellence
-- Provided technical guidance throughout the product development life-cycle, ensuring innovation, quality, and on-time delivery
-- Maintained and enhanced the stability, security, and scalability of the technology infrastructure, proactively identifying and mitigating risks
-- Partnered with product management, sales, and customer support teams to ensure technology solutions effectively met business requirements and market demands
-- Proactive bug prevention: static analysis, dependency vulnerability scanning, and PR risk templates
-- Streamlined defect lifecycle: severity/priority matrix, RCA templates, regression shields with canary feature flags
-- Designed monitoring dashboards for error distribution, slow endpoints, and implemented on-call escalation policies
-- Conducted failure-pattern sessions on common issues (race conditions, deadlocks, memory leaks, JWT expiry) and documented standard fixes
-- Implemented secure error handling: sensitive info redaction, structured audit events, and safe error surfaces
-
-### 🏢 Senior Software Engineer @ Remotebase (Jan 2024 – Nov 2024) | Remote
+### 🏢 Senior Software Engineer @ Remotebase (Jan 2024 – Present) | Remote
 - Developed and maintained web applications using C#, Web API, JavaScript, jQuery
 - Implemented object-oriented programming principles and applied design patterns to build scalable, maintainable software solutions
 - Developed dynamic and interactive UI components using Angular version 17
